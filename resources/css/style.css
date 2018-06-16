@@ -42,3 +42,28 @@ a {
   padding: 10px;
   font-size: 25px;
 }
+
+.banner {
+  background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
+  background-repeat: no-repeat;
+  display: flex;
+  height: 700px;
+  width: 100%;
+  align-content: center;
+  align-items: center;
+  flex-grow: 1;
+  flex-shrink: 1;
+  position: relative;
+  top: 70px;
+  left: 40px;
+  right: 40px;
+}
+
+.mission {
+  display: flex;
+  width: 1200px;
+  height: auto;
+  align-items: center;
+  align-content: center;
+  background-color: black;
+}
