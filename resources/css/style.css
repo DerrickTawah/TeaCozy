@@ -48,22 +48,21 @@ a {
   background-repeat: no-repeat;
   display: flex;
   height: 700px;
-  width: 100%;
-  align-content: center;
+  width: 1200px;
+  justify-content: center;
   align-items: center;
+  align-content: center;
   flex-grow: 1;
-  flex-shrink: 1;
+  flex-shrink: 2;
+  flex-basis: 100%;
   position: relative;
   top: 70px;
-  left: 40px;
-  right: 40px;
+  left: 350px;
+  right: 350px;
 }
 
 .mission {
-  display: flex;
+  text-align: center;
   width: 1200px;
   height: auto;
-  align-items: center;
-  align-content: center;
-  background-color: black;
 }
