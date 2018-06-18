@@ -5,7 +5,7 @@
   background-color: black;
   opacity: 0.9;
 }
-
+/*header css*/
 header {
   display: flex;
   border-bottom: 1px solid seashell;
@@ -42,27 +42,8 @@ a {
   padding: 10px;
   font-size: 25px;
 }
-
+/*banner*/
 .banner {
   background-image: url("https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg");
-  background-repeat: no-repeat;
-  display: flex;
-  height: 700px;
-  width: 1200px;
-  justify-content: center;
-  align-items: center;
-  align-content: center;
-  flex-grow: 1;
-  flex-shrink: 2;
-  flex-basis: 100%;
-  position: relative;
-  top: 70px;
-  left: 350px;
-  right: 350px;
-}
-
-.mission {
-  text-align: center;
-  width: 1200px;
-  height: auto;
-}
+  
+/*shop*/
