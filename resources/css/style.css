@@ -60,7 +60,7 @@ nav {
 .mission-text {
 	  /*display: flex;
 	  flex-direction: column;*/
-	  width: auto;
+	  width: 1200px;
 	  height: auto;
 	  background-color: black;
 	  padding: 5px;
