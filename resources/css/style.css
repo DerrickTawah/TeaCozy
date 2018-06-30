@@ -78,14 +78,14 @@ nav {
 }
 
 .shop-images img {
-	  display: block;
+    display: block;
     margin: 10px;
     width: 300px;
     height: 200px;
 }
 
 .shop-images span {
-	  padding: 5px;
+    padding: 5px;
     text-align: center;
     font-weight: bold;
     display: block;
