@@ -23,6 +23,7 @@ header {
     height: 69px;
     background-color: black;
     align-items: center;
+    top: 0;
 }
 
 nav {
